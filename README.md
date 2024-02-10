@@ -24,6 +24,7 @@ To run, the files must be placed in the specified path in Laravel project
 
 First run command ``` php artisan stub:publish ``` to publish stubs in root directory
 
+```
 Root
 |
 |__app
@@ -41,3 +42,4 @@ Root
 |__stubs
      |__custom-migration.create.stub
      |__custom-model.stub
+```
